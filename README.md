@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunkarthiik
 - 👀 I’m interested in new technologies!
 - 🌱 I’m currently learning bachelor of technology in Information Technology.
-- 📫 How to reach me @saiarunkarthiik@gmail.com
+- 📫 you can reach me @saiarunkarthiik@gmail.com
 
 <!---
 arunkarthiik/arunkarthiik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
